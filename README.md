@@ -3,7 +3,7 @@
  <h1><strong>GameSphere</strong></h1>
  <p><strong>Power Up Your Gaming Experience, Ignite Your Gaming Passion and Embark on Epic Adventures.</strong></p>
 </div>
-<div align="center"><a href="https://devbytemehedi.github.io/gamesphere"> <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages"></a> <a href="https://gamesphere.netlify.app"><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify"></a></div>
+<div align="center"><a href="https://devbytemehedi.github.io/gamesphere"> <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages"></a> <a href="https://gamesphere-mh.netlify.app"><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify"></a></div>
 
 ## Features
 
