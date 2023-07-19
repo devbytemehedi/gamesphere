@@ -5,6 +5,8 @@ body {
   font-family: "Work Sans", sans-serif;
 }
 
+/* Gradient Text */
+
 .gt {
   background-image: linear-gradient(
     rgba(249, 72, 178, 1),
@@ -15,6 +17,7 @@ body {
   -webkit-text-fill-color: transparent;
 }
 
+/* Navbar Start */
 header {
   background-color: white;
   box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.05);
@@ -81,6 +84,11 @@ header {
 .btn-img {
   cursor: pointer;
 }
+
+/* Navbar End */
+
+/* Banner Start */
+
 .banner-container {
   background: linear-gradient(
     235deg,
@@ -159,6 +167,10 @@ header {
 .btn2:hover {
   background-color: #048cc6;
 }
+
+/* Banner End */
+
+/* Gamer Start */
 .gm-container {
   display: flex;
   align-items: center;
@@ -212,6 +224,10 @@ header {
   line-height: 4.5rem;
   font-size: 3.2rem;
 }
+
+/* Gamer End */
+
+/* Online Games Start */
 .og-container {
   text-align: center;
   padding: 5rem 15rem;
@@ -224,6 +240,7 @@ header {
   margin-top: 4rem;
   margin-right: 4rem;
 }
+
 
 .og-title,
 .pg-title {
@@ -251,6 +268,9 @@ header {
   margin-top: 2rem;
 }
 
+/* Online Games End */
+
+/* Play Games Start */
 .pg-container {
   padding: 5rem 15rem;
   display: flex;
@@ -278,6 +298,10 @@ header {
   bottom: -3.8rem;
   right: -4.6rem;
 }
+
+/* Play Games End */
+
+/* Game List Start */
 
 .gl-container {
   display: flex;
@@ -308,6 +332,11 @@ header {
 .socials > a > img {
   width: 5rem;
 }
+
+/* Game List End */
+
+/* Footer Start */
+
 .footer-container {
   background-color: #0b0223;
   padding: 6rem 15rem;
@@ -318,7 +347,7 @@ header {
   align-items: center;
   flex-direction: column;
 }
-.lg {
+.ft-lg {
   color: white;
 }
 .links {
@@ -386,3 +415,5 @@ header {
 .ftr-txt {
   color: white;
 }
+
+/* Footer End */
